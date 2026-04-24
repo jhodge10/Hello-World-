@@ -1,18 +1,17 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{This is an easy one step software that prints a statement.}
 
-The program desplays the statement "Hello World!"
+{The purpose of this software is to print the words "Hello World!"}
 
-I want to become a better software engineer. I am new and not very good at it, but I want to be good so I can enjoy technology and provide for my family.
-
-(https://youtu.be/KDbMtbu1b40)
-
-[Software Demo Video] https://youtu.be/KDbMtbu1b40
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-I used my knowledge of how Python works.
+{The tools used were VS Code and the internet to make sure coding language was used correctly}
 
-I used Python
+{The Language sed is Python}
 
+# Useful Websites
+
+* https://www.learnpython.org/en/Hello%2C_World%21 
