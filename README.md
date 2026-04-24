@@ -4,7 +4,7 @@
 
 {The purpose of this software is to print the words "Hello World!"}
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/KDbMtbu1b40))
+[Software Demo Video]((https://youtu.be/KDbMtbu1b40))
 
 # Development Environment
 
