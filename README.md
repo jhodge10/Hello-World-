@@ -1,16 +1,16 @@
 # Overview
 
-{This is an easy one step software that prints a statement.}
+This is an easy one step software that prints a statement.
 
-{The purpose of this software is to print the words "Hello World!"}
+The purpose of this software is to print the words "Hello World!"
 
 [Software Demo Video](https://youtu.be/KDbMtbu1b40)
 
 # Development Environment
 
-{The tools used were VS Code and the internet to make sure coding language was used correctly}
+The tools used were VS Code and the internet to make sure coding language was used correctly
 
-{The Language used is Python}
+The Language used is Python
 
 # Useful Websites
 
