@@ -10,7 +10,7 @@
 
 {The tools used were VS Code and the internet to make sure coding language was used correctly}
 
-{The Language sed is Python}
+{The Language used is Python}
 
 # Useful Websites
 
